@@ -20,4 +20,14 @@ The Cloud Resume Challenge is all about showcasing your abilities in designing, 
 - <b>Windows 10</b> (22H2)
 
 <h2>Challenge Outline</h2>
-<img src="https://i.imgur.com/3cVMsNm" height="80%" width="80%" alt="Challenge Outline 1-11"/>
+
+<p align="center">
+Challenge Outline Steps 1-11: <br/>
+<img src="https://i.imgur.com/3cVMsNm.png" height="80%" width="80%" alt="Challenge Outline 1-11"/>
+<br />
+<br />
+Challenge Outline Steps 12-16 <br/>
+<img src="https://i.imgur.com/zoOJsfk.png" height="80%" width="80%" alt="Challenge Outline 12-16"/>
+<br />
+<br />
+</p>
